@@ -16,7 +16,6 @@ Here's a few details about what your application should be like:
 
 Functionalities:
 
- <br>
 Upload:
 
 When the user chooses to upload a new video, it should be stored using an Amazon S3 bucket. 
