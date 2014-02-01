@@ -51,8 +51,7 @@
          <font size="6"><b>Hello! Welcome to AWS Web World!</b>
                 </h1>
                 <br />
-        <font size="3"><b><font color="blue">Jingzhe Song      js4153</b><br />
-        <b><font color="blue">Mengjie Lei       ml3459</b>
+   
                 </h1>
                 <br />
         
