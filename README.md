@@ -12,7 +12,7 @@ Here's a few details about what your application should be like:
 3. Rating button (dropdown or anything else) for each 
 
 4. Delete button to delete video
-
+<br>
 
 Functionalities:
 
