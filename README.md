@@ -37,3 +37,4 @@ However, the videos stored in S3 must be distributed using CloudFront, which is 
 Rating:
 
 You need to use the Amazon RDS database to store details about the video: name, upload timestamp and a cumulative rating (ie, they should be updated and averaged everytime a user rates it). These ratings should be updated everytime a new user rates it. Note, you can allow the same user to rate multiple times to avoid storing any session/cookies data. Current rating must also be displayed next to every video. The RDS can be created and configured manually but must be updated using code.
+
